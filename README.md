@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-🎓 Data Science student @ **JUST**
+🎓 Data Science student @ **Jordan University of Science and Technology (JUST)**
 📍 Based in Jordan 🇯🇴
 🔍 Passionate about discovering hidden patterns in data
 ⚡ I enjoy solving real-world problems using ML
@@ -42,30 +42,42 @@
 
 **Libraries & Tools**
 `Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`
-`Jupyter` `Colab` `Git` `VS Code`
+`Jupyter` `Google Colab` `Git` `VS Code`
 
 ---
 
 ## 🔥 Featured Projects
 
-🔹 **ML Project Name** – Short description (classification/regression/EDA)
-🔹 **Data Analysis Project** – Insights + visualization
-🔹 **Competition Project** – Your ranking / approach
+🔹 **ML Project 1** – Classification model with feature engineering
+🔹 **Data Analysis Project** – Insights & visualization dashboard
+🔹 **Competition Project** – WiDS Datathon solution
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAbualigah&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAbualigah&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Abualigah&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Abualigah&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Abualigah&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Abualigah&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Goals
 
-🥇 Win international competitions
+🥇 Win international datathons
 📚 Master advanced ML & Deep Learning
 🌍 Contribute to open source
 
@@ -78,5 +90,5 @@ I treat messy datasets like puzzles 🧩 — the messier, the more fun.
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to check my repositories!
+  ⭐ Check out my repositories and feel free to connect!
 </p>
