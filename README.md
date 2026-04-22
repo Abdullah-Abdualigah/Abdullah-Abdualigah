@@ -4,8 +4,9 @@
 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='' align='right'/>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Abdullah%20Abualigah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-abualigah-0323303a1)](https://www.linkedin.com/in/abdullah-abualigah-0323303a1)
+[![Gmail Badge](https://img.shields.io/badge/-abualigah3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abualigah3@gmail.com)](mailto:abualigah3@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahAbualigah" alt="AbdullahAbualigah" /> </p>
 
 <div style="text-align: right">In Data Science, the data doesn't lie — but it does hide the truth sometimes. 🔍</div>
 
