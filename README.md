@@ -1,70 +1,48 @@
-## Hey, I'm [Abdullah Abualigah!](https://www.linkedin.com/in/abdullah-abualigah-0323303a1) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there, I'm Abdullah! 
 
-<h1>Welcome to my corner of the data world 🌍</h1>
-
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Abdullah%20Abualigah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-abualigah-0323303a1)](https://www.linkedin.com/in/abdullah-abualigah-0323303a1)
-[![Gmail Badge](https://img.shields.io/badge/-abualigah3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abualigah3@gmail.com)](mailto:abualigah3@gmail.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahAbualigah" alt="AbdullahAbualigah" /> </p>
-
-<div style="text-align: right">In Data Science, the data doesn't lie — but it does hide the truth sometimes. 🔍</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAbualigah&show_icons=true&theme=tokyonight&count_private=true" alt="Abdullah's GitHub Stats" />
+</div>
 
 ---
 
-## 🚀 What I'm Passionate About
-* Machine Learning & AI
-* Data Science Competitions
-* Predictive Modeling & Feature Engineering
-* Statistical Analysis & Data Visualization
+### 🌍 Welcome to my corner of the data world
 
-## 💻 Programming Languages
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Matrix' align='right' width='200'/>
 
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30' title='Python'/>  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30' title='C++'/>  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30' title='SQL'/>
+> **"In Data Science, the data doesn't lie — but it does hide the truth sometimes."** 🔍
+
+أنا **عبد الله أبو عليقة**، طالب علم بيانات في جامعة العلوم والتكنولوجيا الأردنية. أركز على بناء نماذج تنبؤية ذكية وحل المشكلات المعقدة باستخدام تعلم الآلة.
 
 ---
 
-## 🛠️ Technologies & Tools I Use
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 🚀 Passion & Focus
+* 🏆 **Competitions:** Active participant in WiDS Datathon & ML challenges.
+* 🤖 **AI/ML:** Building robust end-to-end Machine Learning pipelines.
+* 📊 **Analysis:** Feature engineering and advanced statistical modeling.
+* 🌱 **Learning:** Deepening my knowledge in Advanced Deep Learning.
 
 ---
 
-## 👨‍💻 Who Am I?
+### 🛠️ Tech Stack & Tools
 
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **ML Libraries** | ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Boosting** | ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat-square&logoColor=white) |
+| **Environment** | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
+
+---
+
+### 👨‍💻 My Dev Identity
 ```python
-class WhoAmI:
-    user        = "Abdullah Abualigah"
-    university  = "Jordan University of Science and Technology (JUST)"
-    major       = "Data Science"
-    location    = "Jordan 🇯🇴"
+class Abdullah:
+    def __init__(self):
+        self.university = "Jordan University of Science and Technology (JUST)"
+        self.major      = "Data Science"
+        self.location   = "Jordan 🇯🇴"
+        self.goal       = "Win Datathons & Master Advanced ML"
 
-    skills = {
-        "languages" : ["Python", "C++", "SQL"],
-        "ml_libs"   : ["scikit-learn", "XGBoost", "LightGBM", "Pandas", "NumPy"],
-        "interests" : ["Machine Learning", "Data Science Competitions", "Predictive Modeling"]
-    }
-
-    def ambitions(self):
-        self.win_datathon_competitions()
-        self.master_advanced_ml()
-        self.contribute_to_open_source()
-```
-
----
-
-## 🔭 Current Focus
-* 🏆 Competing in **Data Science & ML Competitions** (WiDS Datathon & more)
-* 📊 Building end-to-end **Machine Learning pipelines**
-* 🌱 Deepening knowledge in **Advanced ML & Feature Engineering**
-
----
+    def current_status(self):
+        return "Building something awesome with data..."
