@@ -28,10 +28,7 @@ I don't just build models; I solve puzzles. I specialize in turning raw, complex
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAbualigah&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbualigah&layout=compact&theme=tokyo-night&hide_border=true" width="45%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAbualigah&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
