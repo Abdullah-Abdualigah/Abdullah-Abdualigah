@@ -1,82 +1,61 @@
-# 👋 Hey, I'm Abdullah M. Abualigah
+# 🚀 Abdullah M. Abualigah
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Explorer;Machine+Learning+Architect;Predictive+Modeling+Specialist&font=Fira+Code&weight=600&size=28&color=4285F4&width=600&height=50">
+</p>
 
+---
+
+### 👨‍💻 About Me
+**Data Science student at Jordan University of Science and Technology (JUST)** 🎓
+
+I don't just build models; I solve puzzles. I specialize in turning raw, complex datasets into actionable insights through robust ML pipelines. Based in **Jordan 🇯🇴**, I spend my time optimizing hyperparameters and feature engineering for the next big challenge.
+
+- 🔭 **Currently working on:** Advanced predictive modeling and Datathon solutions.
+- ⚡ **Fun Fact:** I believe a dataset is never "messy," it's just waiting for the right EDA.
+- 💬 **Ask me about:** Python, XGBoost, and why data visualization is an art.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **ML Models** | ![XGBoost](https://img.shields.io/badge/XGBoost-EE4C2C?style=flat-square&logo=XGBoost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-3949AB?style=flat-square) |
+| **Environments** | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+Into+Insights&center=true&width=500&height=45">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAbualigah&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbualigah&layout=compact&theme=tokyo-night&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAbualigah&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+### 🎯 Current Mission
+- [ ] 🥇 Secure a top rank in an international Datathon (WiDS).
+- [ ] 🧠 Master Deep Learning architectures (Transformers & CNNs).
+- [ ] 🤝 Contribute to open-source ML frameworks.
+
+---
+
+### 📫 Let's Connect
+<p align="left">
   <a href="https://www.linkedin.com/in/abdullah-abualigah-0323303a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Abualigah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abualigah3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 🧠 About Me
-
-🎓 Data Science student @ **Jordan University of Science and Technology (JUST)**
-📍 Based in Jordan 🇯🇴
-🔍 Passionate about discovering hidden patterns in data
-⚡ I enjoy solving real-world problems using Machine Learning
-
-> *"Data is silent… until you know how to listen."*
-
----
-
-## 🚀 What I Do
-
-💡 Build Machine Learning Models
-📊 Analyze & Visualize Data
-🏆 Compete in Datathons (WiDS & more)
-⚙️ Design End-to-End ML Pipelines
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-`Python` `C++` `SQL`
-
-**Libraries & Tools**
-`Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`
-`Jupyter` `Google Colab` `Git` `VS Code`
-
----
-
-## 🔥 Featured Projects
-
-🔹 **ML Project 1** – Classification model with feature engineering
-🔹 **Data Analysis Project** – Insights & visualization dashboard
-🔹 **WiDS Datathon Project** – Predictive modeling solution
-
----
-
-
-## 📊 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAbualigah&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Goals
-
-🥇 Win international datathons
-📚 Master advanced Machine Learning & Deep Learning
-🌍 Contribute to open source
-
----
-
-## ⚡ Fun Fact
-
-I treat messy datasets like puzzles 🧩 — the messier, the more fun.
-
----
-
-<p align="center">
-  ⭐ Check out my repositories and feel free to connect!
+  <i>"Data is silent… until you know how to listen."</i>
 </p>
